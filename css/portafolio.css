@@ -1,4 +1,15 @@
+.title {
+    font-style: italic;
+    text-align: center;
+    margin: 10px;
+    color: rgb(100, 207, 97);
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+
 .imagen {
-    width: 350px;
-    height: 350px;
+    margin: 2px;
+    width: 420px;
+    height: 420px;
 }
